@@ -1,0 +1,4 @@
+# QUESTIONNAIRE INTITULE QUESTIONS.TXT
+#
+# Toutes les questions doivent respecter cette syntaxe : Qui est ta maman ?:Anne
+#
