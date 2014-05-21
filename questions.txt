@@ -1,4 +1,25 @@
-# QUESTIONNAIRE INTITULE QUESTIONS.TXT
-#
-# Toutes les questions doivent respecter cette syntaxe : Qui est ta maman ?:Anne
-#
+Quelle est la ville la plus peuplée au monde ?:Tokyo
+Combien y a-t-il de pays dans le monde ?:193
+Quel animal vit le plus longtemps ?:clam
+Quel est le vin utilisé pendant la messe ?:blanc
+D’où viennent les poissons rouges ?:Chine
+Quel est le disque le plus vendu de tous les temps ?:Thriller
+Quel est le plus grand pays du monde ?:Russie
+De quelle pièce de théâtre est extraite la célèbre tirade "Être ou ne pas être" ?:Hamlet
+Quelle est la chute d’eau la plus haute au monde ?:Salto Angel
+Il n’est pas possible de pleurer dans l’espace ?:Vrai
+Les ours polaires sont gauchers?:Faux
+Tomate Un Légume ?:Faux
+Le plus long fleuve du monde est le ?:Nil
+La plus haute montagne du monde est le ?:Everest
+Le plus grand désert du monde est le ?:Sahara
+Le plus grand pays producteur de café dans le monde ?:Brésil
+L’endroit le plus froid sur la terre est ?:Verkoyansk
+Le pays qui occupe le deuxième rang en termes de superficie est ?:Canada
+La plus ancienne ville du monde connu est ?:Damas
+La plus grande île du monde est ?:Groeland
+La ville qui est le plus grand centre de fabrication de voitures dans le monde est ?:Detroit
+L’endroit le plus bas sur la terre est ?:Mer Morte
+Quel type d’électricité peut être produite par se peigner les cheveux ?:Satique
+Qu’est-ce dans le corps humain est l’épiderme?:peau
+Combien de paires de côtes les humain ont normalement ?:12
